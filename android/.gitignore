@@ -1,0 +1,18 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+# Keystore files – لا ترفع ملفات التوقيع إلى الريبو
+**/*.key.properties
+# Keystore files – لا ترفع ملفات التوقيع إلى الريبو
+/android/key.properties
